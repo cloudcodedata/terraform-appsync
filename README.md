@@ -1,2 +1,2 @@
 # terraform
-Terraform source code.
+Terraform AppSync source code repository.
